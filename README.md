@@ -7,3 +7,5 @@ An analysis of two years of daily blogging on [matt-rickard.com](https://matt-ri
 2. Then I ran them through t-SNE (t-distributed stochastic neighbor embedding, a fancy way to visualize high-dimensional data by translating them to two dimensions. 
 
 3. Finally, I separated the two-dimensional space into equally sized bins and asked GPT-3.5 to develop a category name for each set of post titles. 
+
+https://blog.matt-rickard.com/p/two-years-of-daily-blogging
